@@ -5,6 +5,6 @@
     require_once 'config/model.php'; // dodać przy tworzeniu głównego modelu
     
     $router = new traser();
-    
+    echo "test"; // takie tam
  ?>
 
